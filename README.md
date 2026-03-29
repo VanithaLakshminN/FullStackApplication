@@ -155,8 +155,8 @@ GenAI/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/GenAI.git
-cd GenAI
+git clone https://github.com/VanithaLakshminN/FullStackApplication.git
+cd FullStackApplication
 ```
 
 ### 2. Setup Backend
@@ -300,11 +300,4 @@ No code changes needed — everything reads from environment variables.
 
 ---
 
-## .gitignore Reminder
 
-Make sure these are in your `.gitignore`:
-```
-node_modules/
-.env
-dist/
-```
